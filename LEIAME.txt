@@ -1,7 +1,9 @@
 Olá
 
-Quando mandei o projeto para uns amigos testarem tivemos problemas ao inicializar espero que não tenha essa problema
-Mas a solução que achamos foi
+Quando mandei o projeto para uns amigos testarem tivemos problemas ao inicializar
+Envolvendo o pom.xml
+Como eu ja iniciei o projeto o meu roda com .war mas quando iniciamos a primeira vez ele precisa ler como .jar
+A solução que achamos foi
 
 
 1 - No pom.xml
