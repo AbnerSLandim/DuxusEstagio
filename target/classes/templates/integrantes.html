@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <title>Cadastro de Integrante</title>
+        <link rel="stylesheet" th:href="@{/css/style.css}">
+    </head>
+    <body>
+
+    <h2>Cadastrar Integrante</h2>
+
+    <form action="/integrantes/form" method="post">
+
+    <label>Nome:</label>
+        <input type="text" name="nome"/><br><br>
+
+        <label>Franquia:</label>
+        <input type="text" name="franquia"/><br><br>
+
+        <label>Função:</label>
+        <input type="text" name="funcao"/><br><br>
+
+        <button type="submit">Salvar</button>
+
+    </form>
+
+    </body>
+</html>
