@@ -1,6 +1,6 @@
 Olá
 
-Quando mandei o projeto para uns amigos testarem tivemos o problema espero que não tenha essa problema
+Quando mandei o projeto para uns amigos testarem tivemos problemas ao inicializar espero que não tenha essa problema
 Mas a solução que achamos foi
 
 Trocar a linha
