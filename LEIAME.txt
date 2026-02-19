@@ -3,12 +3,13 @@ Olá
 Quando mandei o projeto para uns amigos testarem tivemos problemas ao inicializar espero que não tenha essa problema
 Mas a solução que achamos foi
 
-Trocar a linha
+
+1 - No pom.xml
+
+2 - Trocar a linha
 <packaging>war</packaging> por <packaging>jar</packaging>
 
-E excluir a linha <scope>provided</scope>
-
-
+3 - excluir a linha <scope>provided</scope>
 
 Para acessar as telas
 Eu deixei apenas para se conectar diretamente pelo link
