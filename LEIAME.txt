@@ -1,0 +1,10 @@
+Olá
+
+Para acessar as telas
+Eu deixei apenas para se conectar diretamente pelo link
+
+Tela de Time
+http://localhost:8080/tela/times
+
+Tela de Integrantes
+http://localhost:8080/tela/integrantes
